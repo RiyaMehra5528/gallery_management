@@ -1,0 +1,54 @@
+#signUpBox{
+  height: 400px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  border: 2px solid rgb(236, 120, 120);
+  background-color: rgb(226, 154, 154);
+  color:aliceblue;
+  margin-top: 40px;
+  box-shadow: 5px;
+  border-radius: 15px;
+}
+#signUpBox input{
+ border-radius: 10px;
+ width: 200px;
+  height: 30px;
+  margin-left: 35px;
+}
+#signUpBtn{
+  width: 200px;
+  height: 50px;
+  background-color: green;
+  color:wheat;
+  margin-left: 35px;
+}
+#loginBox{
+  height: 300px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  border: 2px solid rgb(236, 120, 120);
+  background-color: rgb(226, 154, 154);
+  color:aliceblue;
+  margin-top: 40px;
+  box-shadow: 5px;
+  border-radius: 15px;
+}
+#loginBox input{
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+  margin-left: 35px;
+}
+.loginBtn{
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: green;
+  color:wheat;
+  margin-left: 10px;
+  margin-right: 10px;
+}
